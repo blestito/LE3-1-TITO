@@ -1,6 +1,0 @@
-C:\Users\MY PC\source\repos\TitoLE2\BlogTestUI\obj\Debug\net8.0\BlogTestUI.csproj.AssemblyReference.cache
-C:\Users\MY PC\source\repos\TitoLE2\BlogTestUI\obj\Debug\net8.0\BlogTestUI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\MY PC\source\repos\TitoLE2\BlogTestUI\obj\Debug\net8.0\BlogTestUI.AssemblyInfoInputs.cache
-C:\Users\MY PC\source\repos\TitoLE2\BlogTestUI\obj\Debug\net8.0\BlogTestUI.AssemblyInfo.cs
-C:\Users\MY PC\source\repos\TitoLE2\BlogTestUI\obj\Debug\net8.0\BlogTestUI.csproj.CoreCompileInputs.cache
-C:\Users\MY PC\source\repos\TitoLE2\BlogTestUI\obj\Debug\net8.0\BlogTestUI.sourcelink.json
